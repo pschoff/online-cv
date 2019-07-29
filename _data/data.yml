@@ -70,8 +70,8 @@ education:
           - Bullet point
 
     - degree: MSc in Public Policy and Managment
-      university: Bristol University
-      time: 2007 - 2011
+      university: Carnegie Mellon University
+      time: 2012 - 2014
       details: |
         The Master of Science in Public Policy & Management (MSPPM) is a 
         master’s degree program that teaches students how to leverage data 
@@ -81,6 +81,23 @@ education:
           - Bullet point
           - Bullet point
 
+    - degree: BA in Political Science
+      university: Seattle University
+      time: 2012 - 2014
+      details: |
+        explore ideas fundamental to the human condition such as power, 
+        justice, equality, and legitimacy; examine how laws and policies 
+        are enacted and enforced in the United States and elsewhere; compare 
+        and contrast the political institutions, policy processes and policy 
+        outcomes across nations; investigate how countries cooperate and 
+        compete in the international system; and uncover the ways in which 
+        power differentials between individuals, social groups, countries 
+        and geographies shape the world we are living in. 
+        Any issue that touches human lives is the subject matter of political science.
+
+          - Bullet point
+          - Bullet point
+          
 experiences:
     - role: Lead Developer
       time: 2015 - Present
