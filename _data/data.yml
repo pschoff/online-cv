@@ -12,14 +12,14 @@ sidebar:
     avatar: download.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: peter.schoffelen@gmail.com
+    phone: 1 609 439 6655
+    website: #do not add http://
+    linkedin: 
+    github: pschoff
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,10 +29,7 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        level: Elementary
 
     interests:
       - item: Climbing
