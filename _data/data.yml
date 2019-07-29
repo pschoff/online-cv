@@ -83,7 +83,7 @@ education:
 
     - degree: BA in Political Science
       university: Seattle University
-      time: 2012 - 2014
+      time: 2007 - 2012
       details: |
         explore ideas fundamental to the human condition such as power, 
         justice, equality, and legitimacy; examine how laws and policies 
@@ -99,22 +99,20 @@ education:
           - Bullet point
           
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Scrum Master/Agile Coach
+      time: 2019 - Present
+      company: Daimler Trucks North America, Portland (Oregon)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Autonomous driving will go nowhere without the agile teamwork needed 
+        to keep its development on track. We not only rely on real passion in 
+        the team, but also on a Scrum Master, who enables the teams to master 
+        this challenging task. That's where I come in.
 
-          - Bullet point
-          - Bullet point
+          - Provide agile leadership and support for teams involved in the research and development of autonomous driving.
+          - Work closely with experts in influential fields like AI and robotics.
+          - Responsible for the day-to-day coaching of multiple teams, product owners and external partners.
+          - Promote a culture of agile leadership to ensure the continuous improvement of agile methods in line with the SCRUM scaling framework, LeSS.
+          - Act as the lynchpin role of Servant Leader by becoming the essential go-to contact that my teams and management can always turn to.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
