@@ -32,14 +32,20 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: Climbing
+      - item: Outdoor adventure
         link:
 
-      - item: Snowboarding
+      - item: Urban exploration
+        link:
+
+      - item: Wellness
+        link:
+      
+      - item: Learning
         link:
 
       - item: Cooking
-        link:
+        link: 
 
 career-profile:
     title: Career Profile
