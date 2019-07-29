@@ -59,28 +59,24 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Business Intelligence & Data Analytics (BIDA)
+      university: Carnegie Mellon University
+      time: 2018 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Curriculum includes advanced analytics coursework in machine learning, 
+        structured and unstructured data analytics and predictive modeling. 
 
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
+    - degree: MSc in Public Policy and Managment
       university: Bristol University
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        The Master of Science in Public Policy & Management (MSPPM) is a 
+        master’s degree program that teaches students how to leverage data 
+        and technology in order to analyze, affect, and implement policy 
+        solutions that will impact society in meaningful ways.
 
           - Bullet point
           - Bullet point
