@@ -14,15 +14,11 @@ sidebar:
     # Sidebar links
     email: peter.schoffelen@gmail.com
     phone: 1 609 439 6655
+
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
-    gitlab:
-    bitbucket:
     twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -32,13 +28,19 @@ sidebar:
         level: Elemntry
 
     interests:
-      - item: Climbing
+      - item: Exploring the great outdoors!
         link:
 
-      - item: Snowboarding
+      - item: Exploring urban environments!
         link:
 
       - item: Cooking
+        link:
+
+      - item: Wellness
+        link:
+
+      - item: Personal Growth
         link:
 
 career-profile:
@@ -53,9 +55,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Buisness Intelligence and Data Analytics
+      university: Carnegie Mellon Unviersity
+      time: 2018 - 2020 (expected)
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,10 +68,10 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
+    - degree: MSc in Public Policy and Managment
+      university: Carnegie Mellon University
+      time: 2012 - 2014
+      details: 
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -80,9 +82,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Agile Coach/Scrum Master for Automated Trucking
+      time: 2019 - 
+      company: Daimler AG, Portland OR
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -97,9 +99,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Data Analyst
+      time: 2018 - 2019
+      company: Daimler Trucks North America, Portland OR
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,9 +112,35 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Managment Trainee (CAReer Program)
+      time: 2016 - 2018
+      company: Daimler Ag, Global Assignment
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+    
+    - role: Managment Trainee (CAReer Program)
+      time: 2016 - 2018
+      company: Daimler Ag, Global Assignment
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+          
+     - role: Managment Trainee (CAReer Program)
+      time: 2016 - 2018
+      company: Daimler Ag, Global Assignment
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -175,13 +203,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R & R Studio
         level: 98%
 
-      - name: Angular
+      - name: SQL
         level: 98%
 
       - name: HTML5 & CSS
