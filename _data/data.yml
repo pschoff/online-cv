@@ -138,9 +138,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Research Assistant
-      time: 2016 - 2018
-      company: Daimler Ag, Global
+    - role: Founding Member
+      time: 2014 - 2016
+      company: Small Change, Pittsburgh (PA)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -149,6 +149,8 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+
+
 
 projects:
     title: Projects
