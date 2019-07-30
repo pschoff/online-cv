@@ -81,7 +81,7 @@ education:
 
     - degree: BA in Political Science
       university: Seattle University
-      time: 2007 - 2012
+      time: 2007 - 2011
       details: |
         explore ideas fundamental to the human condition such as power, 
         justice, equality, and legitimacy; examine how laws and policies 
@@ -112,9 +112,9 @@ experiences:
           - Promote a culture of agile leadership to ensure the continuous improvement of agile methods in line with the SCRUM scaling framework, LeSS.
           - Act as the lynchpin role of Servant Leader by becoming the essential go-to contact that my teams and management can always turn to.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Data Analyst
+      time: 2018 - 2019
+      company: Daimler Trucks North America, Portland (Oregon)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -125,9 +125,35 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: CAReer Managment Trainee
+      time: 2016 - 2018
+      company: Daimler Ag, Global
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+     
+     - role: Research Analyst
+      time: 2015 - 2016
+      company: The Science of Growth, Pittsburgh (Pennsilyvania)
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+          
+     - role: Founding member
+      time: 2014 - 2015
+      company: Small Change, Pittsburgh (Pennsilyvania)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
